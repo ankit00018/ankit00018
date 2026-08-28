@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ankit 👋
 
-<!--
-**ankit00018/ankit00018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems for AI-powered products — mostly the infrastructure behind e-commerce apps, Shopify integrations, and the AI features layered on top of them.
 
-Here are some ideas to get you started:
+Most of my work is hands-on: API design, backend architecture for mobile apps, and shipping AI features like chatbots and recommendation engines that actually run in production, not just in a demo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Backend infra:** mobile app backends, e-commerce SaaS backends, Shopify app backends
+- **AI features:** chatbots and recommendation engines built into commerce products
+- **API design:** REST APIs on Node.js/Express, MongoDB, MERN stack
+- **Reliability:** handling concurrency and rate limits in production systems (mailbox limits, external API constraints, that kind of thing)
+- **Architecture:** building backend systems that hold up as usage and data scale
+
+## About Me
+
+- **Backend Developer @ Dermatics India** — building mobile app backends, AI-powered Shopify app backends, and e-commerce SaaS backends
